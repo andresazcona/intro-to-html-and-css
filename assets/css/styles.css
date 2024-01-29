@@ -1,0 +1,27 @@
+/* FILEPATH: /c:/Users/andre/github-classroom/DSAW-2024-1/intro-to-html-and-css-andresazcona/styles.css */
+
+/* Reset default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Style the heading */
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
