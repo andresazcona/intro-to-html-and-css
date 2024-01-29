@@ -16,20 +16,6 @@ body {
     background-color: #F3E5D8;
 }
 
-/* Style the heading */
-h1 {
-    font-size: 24px;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-/* Style paragraphs */
-p {
-    font-size: 16px;
-    color: #666;
-    line-height: 1.5;
-    margin-bottom: 20px;
-}
 
 .content {
     width: 600px;
@@ -61,7 +47,7 @@ p {
 .main_title {
     text-align: left;
     font-size: 40px;
-    color: #6E4D44;
+    color: #444444;
     margin-bottom: 10px;
     font-family: 'young serif', sans-serif;
 }
@@ -69,7 +55,7 @@ p {
 .attribution {
     text-align: center;
     font-size: 10px;
-    color: #6E4D44;
+    color: #444444;
     margin-bottom: 5px;
     padding-top: 20px;
     font-family: 'Outfit', 'regular';
@@ -78,38 +64,50 @@ p {
 .parrafo1 {
     text-align: left;
     font-size: 15px;
-    color: #6E4D44;
-    margin-bottom: 10px;
+    color: #444444;
+    margin-bottom: 30px;
+    font-family: 'Outfit', 'regular';
+}
+
+.parrafo2 {
+    text-align: center;
+    font-size: 15px;
+    color: #444444;
+    margin-bottom: 30px;
     font-family: 'Outfit', 'regular';
 }
 
 .preparation {
     width: 600px;
-    height: 170px;
-    padding-top: 5px;
+    height: 160px;
+    padding-top: 15px;
     background-color: #ffeaf7;
     border-radius: 25px;
-    margin-top: 20px;
     position: center;
 }
 
 .preptm {
     text-align: left;
-    font-size: 20px;
-    color: #994d7c;
-    margin-bottom: 10px;
-    padding-left: 20px;
+    text-align: start;
+    font-size: 30px;
+    color: #a15184;
+    margin-bottom: 0px;
+    padding-left: 30px;
+    padding-top: -10px;
     font-family: 'Outfit';
+    position: relative;
+    top: -20px;
 }
 
-.lstttl {
+.List1 {
     text-align: left;
     font-size: 10px;
-    color: #6E4D44;
-    margin-bottom: 10px;
-    padding-left: 60px;
+    color: #444444;
+    margin-bottom: 20px;
+    padding-left: 50px;
     font-family: 'Outfit';
-    font-weight: 100;
+    position: relative;
+    top: -15px;
 }
 
 .tittle {
@@ -126,7 +124,7 @@ p {
 .list2 {
     text-align: left;
     font-size: 15px;
-    color: #6E4D44;
+    color: #444444;
     margin-bottom: 10px;
     padding-left: 60px;
     font-family: 'Outfit';
@@ -144,7 +142,7 @@ p {
 .list3 {
     text-align: left;
     font-size: 15px;
-    color: #6E4D44;
+    color: #444444;
     margin-bottom: 10px;
     padding-left: 60px;
     font-family: 'Outfit';
