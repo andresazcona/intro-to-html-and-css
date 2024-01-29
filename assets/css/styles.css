@@ -1,4 +1,8 @@
 /* FILEPATH: /c:/Users/andre/github-classroom/DSAW-2024-1/intro-to-html-and-css-andresazcona/styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
 
 /* Reset default styles */
 body, h1, p {
@@ -8,7 +12,7 @@ body, h1, p {
 
 /* Set a background color */
 body {
-    background-color: #f2f2f2;
+    background-color: #F3E5D8;
 }
 
 /* Style the heading */
@@ -25,3 +29,77 @@ p {
     line-height: 1.5;
     margin-bottom: 20px;
 }
+
+.content {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+
+    .imagen {
+        width: 600px;
+        height: 300px;
+        background-color: #ffffff;
+        border-radius: 25px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    
+    }
+    .imagen img {
+        width: 600px;
+        height: 300px;
+        border-radius: 15px;
+    }
+    
+
+    .main_title {
+        text-align: left;
+        font-size: 40px;
+        color: #333;
+        margin-bottom: 10px;
+        font-family: 'young serif', sans-serif;
+    }
+
+    .parrafo1 {
+        text-align: left;
+        font-size: 15px;
+        color: #333;
+        margin-bottom: 10px;
+        font-family: 'Outfit', 'regular';
+    }
+
+    .preparation {
+        width: 600px;
+        height: 170px;
+        padding-top: 5px;
+        background-color: #f7d4ea;
+        border-radius: 25px;
+        margin-top: 20px;
+        position: center;
+    }
+
+    .preptm {
+        text-align: left;
+        font-size: 20px;
+        color: #333;
+        margin-bottom: 10px;
+        padding-left: 20px;
+        font-family: 'Outfit', 'bold' ;
+    }
+
+    .lstttl {
+        text-align: left;
+        font-size: 10px;
+        color: #333;
+        margin-bottom: 10px;
+        padding-left: 60px;
+        font-family: 'Outfit', 'regular';
+    }
+
+
+
